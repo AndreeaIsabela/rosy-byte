@@ -2,7 +2,7 @@
 
 A dark VS Code theme with hot pink accents.
 
-![Rosy Byte Theme Preview](assets/rosy-byte-theme.png)
+![Rosy Byte Theme Preview](https://raw.githubusercontent.com/AndreeaIsabela/rosy-byte/main/assets/rosy-byte-theme.png)
 
 ## Install
 
