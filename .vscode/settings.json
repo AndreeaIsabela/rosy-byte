@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Rosy Byte",
+  "editor.tokenColorCustomizations": {
+    "[Rosy Byte]": {}
+  },
+  "editor.semanticHighlighting.enabled": false
+}

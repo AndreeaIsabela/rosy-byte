@@ -1,0 +1,38 @@
+{
+  "name": "rosy-byte",
+  "displayName": "Rosy Byte",
+  "description": "A dark theme with hot pink accents",
+  "version": "0.0.1",
+  "publisher": "AndreeaIsabela",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "pink",
+    "hot pink",
+    "rose",
+    "theme"
+  ],
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rosy Byte",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rosy-byte-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreeaIsabela/rosy-byte"
+  },
+  "license": "MIT"
+}
