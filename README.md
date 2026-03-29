@@ -2,6 +2,8 @@
 
 A dark VS Code theme with hot pink accents.
 
+![Rosy Byte Theme Preview](assets/rosy-byte-theme.png)
+
 ## Install
 
 Search **Rosy Byte** in the VS Code Extensions panel, or install via the command palette:
